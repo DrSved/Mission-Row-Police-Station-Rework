@@ -5,3 +5,5 @@ Hello, i tried to find a plugin that reworked the cell office as i call it. Butr
 This is free to use and you can do whatever you want with it, but it you want to edit or upload it, please ask first :)
 
 Otherwise i hope it helps a lot of people that want some custom stuff on there server, and there will come more from me like this!
+
+**Screenshot:** https://gyazo.com/ee130196559556b7fc27d2aa8998d489
